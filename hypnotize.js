@@ -18,13 +18,6 @@ function setup() {
     noLoop();
 }
 
-function draw() {
-    // mouseClicked();
-
-    c_instance = new coCircles()
-}
-
-
 class coCircles {
 
     constructor(x, y, d, r, g, b) {
