@@ -11,7 +11,7 @@ Depending on the gallery, a user must interact with the screen to produce a uniq
 
 Tech Choices: 
 
-I learned P5 JS my sophomore year for the class N220. I remember the class fondly as I learned a lot of the fundmentals of JavaScript and things like DOM manipulation. This project pays homage to that class, as well as gave me the opportunity to revisit P5. P5 is a wonderful animation library, which made me want to further explore its capabilities. I can definitely say that was the case with this project.  
+I learned P5 JS my sophomore year for the class N220. I remember the class fondly as I learned a lot of the fundmentals of JavaScript and things like DOM manipulation. This project pays homage to that class, as well as gave me the opportunity to revisit P5. P5 is a wonderful animation library, which made me want to further explore its capabilities. I can definitely say that was the case with this project. For hypnotize, please click on screen to get shapes to appear.
 
 Lessons Learned:  
 
