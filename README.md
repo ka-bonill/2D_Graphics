@@ -19,4 +19,8 @@ One of the most difficult obstacles I came across for this project was the actua
 
 Screenshots: 
 
+Hynotize: 
+![7E429C6E-B6D5-4030-8D2C-AB9C213C2DC2](https://user-images.githubusercontent.com/56688795/193386475-609515ac-1531-4985-8081-6da6e3620f22.jpeg)
 
+Choose 3D:
+![E2CBEE83-0A27-499D-91D3-E109B3190F03](https://user-images.githubusercontent.com/56688795/193386480-f9852120-7c15-4f5d-9fa8-a18446a5a6f1.jpeg)
